@@ -8,15 +8,19 @@
     <hr />
 
  #1-) Amazon
-
-http://www.amazon.fr/>Lien du site
+  
+    <hr width= 75% />
+    
+      -Lien du site  http://www.amazon.fr/
  
       - Un bureau parisien à Clichy (région parisienne).
       - 4 000 salariés en France
       - Les 4 sites ouverts au public sont situés à Lauwin-Planque (Nord), Montélimar (Drôme), Saran (Loiret) et Sevrey (Saône-et-Loire).
       
  #2-) LDLC
-  
+ 
+    <hr width= 75% />
+    
      -Lien sur le site: http://www.ldlc.com/magasins-ldlc/magasin-470021/75-ldlc-paris/
      -Capitalisation	114.78 M€
      -Effectif	700 salariés
