@@ -7,7 +7,7 @@
   <body>
     <hr />
 
- #1-) Amazon
+ 1-) Amazon
   
     <hr />
     
@@ -17,7 +17,7 @@
       - 4 000 salariés en France
       - Les 4 sites ouverts au public sont situés à Lauwin-Planque (Nord), Montélimar (Drôme), Saran (Loiret) et Sevrey (Saône-et-Loire).
       
- #2-) LDLC
+ 2-) LDLC
  
     <hr />
     
@@ -25,7 +25,10 @@
      -Capitalisation	114.78 M€
      -Effectif	700 salariés
      
- #3-) Gros Bil
+ 3-) Gros Bil
+ 
+      <hr />
+      
       -https://www.grosbill.com/
       -GrosBill Thiais : 2 rue du Travy 94320 Thiais / GrosBill Paris 13e : 60 Boulevard de l'Hôpital 75013 Paris /GrosBill Rosny-sous-bois : Centre Commercial Domus 16 rue de Lisbonne 93110 Rosny-sous-Bois
       -
