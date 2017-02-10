@@ -9,7 +9,7 @@
 
  1-) Amazon
   
-    <hr />
+  
     
       -Lien du site  http://www.amazon.fr/
  
@@ -20,7 +20,7 @@
       
  2-) LDLC
  
-    <hr />
+    
     
      -Lien sur le site: http://www.ldlc.com/magasins-ldlc/magasin-470021/75-ldlc-paris/
      -Capitalisation	114.78 M€
@@ -28,7 +28,7 @@
      
  3-) Gros Bil
  
-      <hr />
+     
       
       -https://www.grosbill.com/
       -GrosBill Thiais : 2 rue du Travy 94320 Thiais / GrosBill Paris 13e : 60 Boulevard de l'Hôpital 75013 Paris /
