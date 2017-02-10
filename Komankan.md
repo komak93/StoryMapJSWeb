@@ -1,5 +1,12 @@
 #E-commerce:
-<hr />
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>StoryMapJSWeb</title>
+  </head>
+  
+  <body>
+    <hr />
 
 <h2>1-) Amazon</h2>
  <a href="ttps://www.amazon.fr/>Lien du site
@@ -26,3 +33,6 @@
 Communication Online
 
 E-santé
+ </body>
+ 
+</html> 
