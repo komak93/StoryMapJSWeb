@@ -1,5 +1,4 @@
 #E-commerce:
-<!DOCTYPE html>
 <html>
   <head>
   <title>StoryMapJSWeb</title>
