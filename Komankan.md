@@ -9,7 +9,7 @@
 
  #1-) Amazon
   
-    <hr width= 75% />
+    <hr />
     
       -Lien du site  http://www.amazon.fr/
  
@@ -19,7 +19,7 @@
       
  #2-) LDLC
  
-    <hr width= 75% />
+    <hr />
     
      -Lien sur le site: http://www.ldlc.com/magasins-ldlc/magasin-470021/75-ldlc-paris/
      -Capitalisation	114.78 M€
