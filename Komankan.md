@@ -22,6 +22,7 @@
  
     
      -Lien sur le site: http://www.ldlc.com/magasins-ldlc/magasin-470021/75-ldlc-paris/
+     -12 rue de l'église 75015 PARIS
      -Capitalisation	114.78 M€
      -Effectif	700 salariés
      -Vendeur d'équiepents High-tech en ligne.
@@ -36,9 +37,9 @@
       -Vendeur d'équiepents High-tech en ligne.
       
 
- #-) Top Achat
+ 4-) Top Achat
 
-#5-) C-Discount
+ 5-) C-Discount
 
  
 Communication Online
