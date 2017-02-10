@@ -30,7 +30,8 @@
       <hr />
       
       -https://www.grosbill.com/
-      -GrosBill Thiais : 2 rue du Travy 94320 Thiais / GrosBill Paris 13e : 60 Boulevard de l'Hôpital 75013 Paris /GrosBill Rosny-sous-bois : Centre Commercial Domus 16 rue de Lisbonne 93110 Rosny-sous-Bois
+      -GrosBill Thiais : 2 rue du Travy 94320 Thiais / GrosBill Paris 13e : 60 Boulevard de l'Hôpital 75013 Paris /
+        GrosBill Rosny-sous-bois : Centre Commercial Domus 16 rue de Lisbonne 93110 Rosny-sous-Bois
       -
       
 
