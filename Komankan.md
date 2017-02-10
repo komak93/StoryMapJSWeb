@@ -7,9 +7,9 @@
   <body>
     <hr />
 
-##>1-) Amazon
+##1-) Amazon
 
-<a href="http://www.amazon.fr/>Lien du site</a>
+http://www.amazon.fr/>Lien du site
  
       - Un bureau parisien à Clichy (région parisienne).
       - 4 000 salariés en France
