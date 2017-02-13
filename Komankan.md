@@ -73,9 +73,9 @@
     
    -www.feeligo.com
    -102 AVENUE DES CHAMPS ELYSEES, 75008 Paris
-   -Capital 8 851,00 €
+   -Capital 8 851,00 €.
    -Entreprise créée en 2012
-
+ .
 #E-santé
  </body>
  
