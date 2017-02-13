@@ -17,7 +17,7 @@
       - 4 000 salariés en France
       - Les 4 sites ouverts au public sont situés à Lauwin-Planque (Nord),
         Montélimar (Drôme), Saran (Loiret) et Sevrey (Saône-et-Loire).
-      -Crée en 	1994
+      -Crée en 1994
       
  2-) LDLC
  
