@@ -48,7 +48,6 @@
  5-) C-Discount
  
      -http://www.cdiscount.com/
-     -
      -Effectif	1 600
      -Chiffre d’affaires : 1 765 millions d’euros
      -Fondée en 1999 "c'est le pôle e-Commerce du groupe Casino"
