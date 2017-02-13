@@ -55,33 +55,26 @@
  
 #Communication Online
 
- 1-)
+ 1-) Omnilive
     
-    -
-    -
-    -
-    -
+    - www.omnilive.fr/indexFR.html
+    -46-48 Rue René Clair, 75018 Paris
+    -Capital 7 622,45 €
+    -OMNILIVE - Technologie graphique brevetée par Current Productions depuis 2012.
     
- 2-)
+ 2-)	MYCITYPLANNER
  
-    -
-    -
-    -
-    -
+    -www.mycityplanner.com/
+    -39 ave GEORGES MANDEL 75116 PARIS
+    -Capital 	5 000,00 €
+    -année d'immatriculation 2012.
  
- 3-)
+ 3-) Feeligo
     
-   - 
-   -
-   -
-   -
-   
- 4-)
- 
- 
- 
- 5-)
- 
+   -www.feeligo.com
+   -102 AVENUE DES CHAMPS ELYSEES, 75008 Paris
+   -Capital 8 851,00 €
+   -Entreprise créée en 2012
 
 #E-santé
  </body>
